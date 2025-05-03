@@ -1,4 +1,5 @@
 🩺 Med Minder 📝
+
 A simple and clean medical note-taking app built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 📖 Overview
