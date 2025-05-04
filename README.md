@@ -44,7 +44,7 @@ Action	Description
 
 # Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Main Menu Screenshot](Screenshots/Screenshot%20(27).png)  
 
 
 # Project Structure
