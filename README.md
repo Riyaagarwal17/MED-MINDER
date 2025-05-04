@@ -44,7 +44,7 @@ Action	Description
 
 # Screenshots
 
-![Main Menu Screenshot](project screenshots/Screenshot (90).png)  
+![Main Menu Screenshot]https://github.com/Riyaagarwal17/MED-MINDER/blob/3cc9c603b30518ee41327a095225fba8a81da726/project%20screenshots/Screenshot%20(90).png  
 
 
 # Project Structure
