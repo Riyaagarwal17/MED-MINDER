@@ -44,7 +44,7 @@ Action	Description
 
 # Screenshots
 
-![Main Menu Screenshot](Screenshots/Screenshot%20(27).png)  
+![Main Menu Screenshot](project screenshots/Screenshot (90).png)  
 
 
 # Project Structure
