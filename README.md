@@ -46,7 +46,14 @@ Action	Description
 
 ## Dashboard
 ![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(90).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(91).png)
 
+## Medical-Notes Page
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(92).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(93).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(94).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(95).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(96).png)
 
 
 # Project Structure
