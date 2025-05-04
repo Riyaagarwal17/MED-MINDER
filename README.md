@@ -45,7 +45,7 @@ Action	Description
 # Screenshots
 
 ## Dashboard
-![image alt](project screenshots/Screenshot (90).png)
+![image alt](https://github.com/Riyaagarwal17/MED-MINDER/blob/main/project%20screenshots/Screenshot%20(90).png)
 
 
 
