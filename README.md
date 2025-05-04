@@ -113,6 +113,7 @@ Backend API → http://localhost:5000
 ## ✨ Contributing
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repository, create a new branch, and submit a pull request.
 
+---
 
 ## Acknowledgements
 
@@ -122,6 +123,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 
 - Open Source Tools & Tutorials.
 
+---
 
 ##  📬 Contact
 
@@ -129,7 +131,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 - **Email**:  riyaagarwal1710@gmail.com  
 - **LinkedIn**:(https://www.linkedin.com/in/riyaagarwal21)
   
-
+---
 
 
 
