@@ -45,7 +45,7 @@ Action	Description
 # Screenshots
 
 ## Dashboard
-(project screenshots/Screenshot (90).png)
+![image alt](project screenshots/Screenshot (90).png)
 
 
 
