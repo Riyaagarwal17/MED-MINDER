@@ -82,7 +82,7 @@ med-minder/
 
 ``` bash
  
- git clone https://github.com/yourusername/med-minder.git
+https://github.com/Riyaagarwal17/MED-MINDER.git
  cd med-minder
  ```
 2. **Setup the backend**:
@@ -124,10 +124,11 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 
 
 ##  📬 Contact
+
 - **Author**: Riya Agarwal  
 - **Email**:  riyaagarwal1710@gmail.com  
 - **LinkedIn**:(https://www.linkedin.com/in/riyaagarwal21)
-
+  
 
 
 
